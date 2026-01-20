@@ -3,7 +3,10 @@
 
 
 :root{
-    --primary-color: #000000;
+    --primary-color: #8051E0;
     --second-color: #ffffff;
-    --third-color: #322feb;
+    --third-color: #13141F;
+}
+body{
+    background-color: var(--primary-color);
 }
