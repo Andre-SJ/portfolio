@@ -1,0 +1,8 @@
+@import url(reset.css);
+@import url(header.css);
+
+
+:root{
+    --primary-color: #000000;
+    --second-color: #ffffff;
+}
